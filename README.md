@@ -1,3 +1,5 @@
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/simandebvu/SQL-Zoo/blob/master/LICENSE)
+[![Issues](https://img.shields.io/github/issues-raw/tterb/PlayMusic.svg?maxAge=25000)](https://github.com/simandebvu/SQL-Zoo/issues)  
 # MYSQL ZOO
 
 > MYSQL queries I have completed from the [SQL Zoo Website](https://sqlzoo.net/)
