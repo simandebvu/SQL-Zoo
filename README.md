@@ -24,9 +24,9 @@ This repository will serve as a reference point in the future.
 
 👤 **Shingirayi Innocent Mandebvu**
 
-- Github: [@githubhandle](https://github.com/simandebvu)
-- Twitter: [@twitterhandle](https://twitter.com/simandebvu)
-- Linkedin: [linkedin](https://linkedin.com/simandebvu)
+- Github: [@simandebvu](https://github.com/simandebvu)
+- Twitter: [@simandebvu](https://twitter.com/simandebvu)
+- Linkedin: [simandebvu](https://linkedin.com/in/simandebvu)
 
 ## 🤝 Contributing
 
